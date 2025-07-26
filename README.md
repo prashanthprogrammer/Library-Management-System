@@ -3,7 +3,6 @@ A simple and modular console-based Library Management System built with Core Jav
 
 📝 Description
 This project simulates a basic library system with functionalities such as:
-
 Adding and viewing books
 Adding and viewing members
 Issuing and returning books
