@@ -54,7 +54,7 @@ LibraryManagementSystem/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Divakar-B12/Library-Management-System-Java.git
+git clone https://github.com/prashanthprogrammer/Library-Management-System
 cd Library-Management-System-Java
 
 ### 2. Set Up MySQL Database
